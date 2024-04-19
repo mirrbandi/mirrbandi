@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jaesung Jang</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<h3 align="center">A passionate developer from Korea</h3>
 
 - 🔭 I’m currently working on [Up_Stage_AI_Lab 3rd](https://fastcampus.co.kr/b2g_kdigitaltraining_ai)
 
